@@ -1,0 +1,30 @@
+// This policy covers the use of this struts application only. Use of this 
+// policy will depend on the application server this application is deployed 
+// to. 
+// No guarantees are made about this policy file; it's use is for demo only. 
+grant codeBase "file:${catalina.base}/webapps/demo-1.0-SNAPSHOT/-" {
+    permission java.io.FilePermission
+        "${catalina.base}/-", "read";
+
+    permission java.lang.RuntimePermission "accessClassInPackage.org.apache.catalina.loader";
+    permission java.lang.RuntimePermission "accessClassInPackage.org.apache.catalina.util";
+    permission java.lang.RuntimePermission "accessClassInPackage.org.apache.catalina.*";
+    permission java.lang.RuntimePermission "accessDeclaredMembers";
+    permission java.util.PropertyPermission "jboss.vfs.forceVfsJar", "read";
+    permission java.util.PropertyPermission "xwork.saxParserFactory", "read";
+    permission java.util.PropertyPermission "xwork.saxTransformerFactory", "read";
+    permission java.util.PropertyPermission "java.util.logging.config.class", "read";
+    permission java.util.PropertyPermission "freemarker.development", "read";
+    permission java.util.PropertyPermission "freemarker.debug.password", "read";
+    permission java.util.PropertyPermission "file.encoding", "read";
+    permission java.util.PropertyPermission "elementAttributeLimit", "read";
+    permission java.util.PropertyPermission "maxOccurLimit", "read";    
+    permission java.util.PropertyPermission "xwork.profile.activate", "read";
+    permission java.util.PropertyPermission "user.dir", "read";
+    permission java.lang.reflect.ReflectPermission "suppressAccessChecks";
+    permission ognl.OgnlInvokePermission "invoke.org.apache.struts2.components.Component.getParameters";
+    permission ognl.OgnlInvokePermission "invoke.org.apache.struts2.dispatcher.StrutsResultSupport.setLocation";
+    permission ognl.OgnlInvokePermission "invoke.org.apache.struts2.components.Property.setValue";
+    permission ognl.OgnlInvokePermission "invoke.com.collir24.demo.UserName.setUserName";    
+    permission ognl.OgnlInvokePermission "invoke.com.collir24.demo.UserName.getUserName";    
+}; 
