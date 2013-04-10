@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-04-10">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="type" type="string">
+        <default>jar</default>
+      </attribute>
+      <attribute id="indegree" title="In-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Out-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="demo-1.0-SNAPSHOT.war" label="demo-1.0-SNAPSHOT.war">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="9.166666"></viz:size>
+        <viz:position x="-8.4259405" y="8.340322" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="struts2-core-2.3.1.jar" label="struts2-core-2.3.1.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="290.80865" y="-107.64899" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="struts2-config-browser-plugin-2.3.1.jar" label="struts2-config-browser-plugin-2.3.1.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.8333335"></viz:size>
+        <viz:position x="908.151" y="-108.02279" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="javassist-3.13.0-GA.jar" label="javassist-3.13.0-GA.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="692.62225" y="-91.43228" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="commons-logging-1.1.1.jar" label="commons-logging-1.1.1.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="9.166666"></viz:size>
+        <viz:position x="7.0227916E-12" y="-99.86289" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="servlet-api-2.4.jar" label="servlet-api-2.4.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.666667"></viz:size>
+        <viz:position x="408.46454" y="-91.32655" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="jsp-api-2.4.jar" label="jsp-api-2.0.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="107.16202" y="-6.3695936" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="xwork-core-2.3.1.jar" label="xwork-core-2.3.1.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="14.166667"></viz:size>
+        <viz:position x="807.5509" y="-191.426" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="freemarker-2.3.18.jar" label="freemarker-2.3.18.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="505.10043" y="-204.8353" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="ognl-3.0.3.jar" label="ognl-3.0.3.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="294.5836" y="-205.10063" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="commons-fileupload-1.2.2.jar" label="commons-fileupload-1.2.2.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="399.13995" y="-188.08087" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="commons-io-2.0.1.jar" label="commons-io-2.0.1.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.833333"></viz:size>
+        <viz:position x="691.25226" y="-207.52806" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="commons-lang-2.5.jar" label="commons-lang-2.5.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="712.64307" y="-285.81635" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="asm-3.3.jar" label="asm-3.3.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.8333335"></viz:size>
+        <viz:position x="595.47644" y="-301.8336" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="asm-commons-3.3.jar" label="asm-commons-3.3.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="6.666667"></viz:size>
+        <viz:position x="891.81055" y="-291.96857" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="asm-tree-3.3.jar" label="asm-tree-3.3.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.8333335"></viz:size>
+        <viz:position x="185.50519" y="-372.7149" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="javassist-3.11.0.GA.jar" label="javassist-3.11.0.GA.jar">
+        <attvalues>
+          <attvalue for="0" value="jar"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-20.036036" y="-279.10657" z="0.0"></viz:position>
+        <viz:color r="205" g="76" b="76"></viz:color>
+      </node>
+      <node id="java.lang.RuntimePermission.exitVM.{status}" label="java.lang.RuntimePermission.exitVM.{status}">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.6666665"></viz:size>
+        <viz:position x="95.03257" y="-295.14243" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.lang.RuntimePermission.modifyThread" label="java.lang.RuntimePermission.modifyThread">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="504.32315" y="-324.08057" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.lang.RuntimePermission.getProtectionDomain" label="java.lang.RuntimePermission.getProtectionDomain">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.333333"></viz:size>
+        <viz:position x="703.4303" y="-421.36642" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.net.SocketPermission.{host}:{port}" label="java.net.SocketPermission.{host}:{port}">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="89.84042" y="-398.55524" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.io.FilePermission.{command}" label="java.io.FilePermission.{command}">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.333333"></viz:size>
+        <viz:position x="210.76169" y="-311.29724" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.lang.RuntimePermission.accessDeclaredMembers" label="java.lang.RuntimePermission.accessDeclaredMembers">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.6666665"></viz:size>
+        <viz:position x="1006.27466" y="-307.60284" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.lang.RuntimePermission.getClassLoader" label="java.lang.RuntimePermission.getClassLoader">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="409.3035" y="-388.95877" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.lang.RuntimePermission.accessClassInPackage.{pkgName}" label="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="590.5048" y="-368.10864" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.net.SocketPermission.{host}" label="java.net.SocketPermission.{host}">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.333333"></viz:size>
+        <viz:position x="1022.0012" y="-416.56116" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.io.FilePermission.{name}" label="java.io.FilePermission.{name}">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.333332"></viz:size>
+        <viz:position x="-15.420331" y="-414.7238" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.util.PropertyPermission.{key}" label="java.util.PropertyPermission.{key}">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.333332"></viz:size>
+        <viz:position x="507.36075" y="-405.27206" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.util.PropertyPermission.*" label="java.util.PropertyPermission.*">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.6666665"></viz:size>
+        <viz:position x="909.0672" y="-400.44806" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.lang.reflect.ReflectPermission.suppressAccessChecks" label="java.lang.reflect.ReflectPermission.suppressAccessChecks">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.666666"></viz:size>
+        <viz:position x="803.3364" y="-384.421" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+      <node id="java.lang.RuntimePermission.modifyThreadGroup" label="java.lang.RuntimePermission.modifyThreadGroup">
+        <attvalues>
+          <attvalue for="0" value="perm"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="290.77072" y="-421.58652" z="0.0"></viz:position>
+        <viz:color r="76" g="205" b="205"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="demo-1.0-SNAPSHOT.war" target="struts2-core-2.3.1.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="demo-1.0-SNAPSHOT.war" target="struts2-config-browser-plugin-2.3.1.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="demo-1.0-SNAPSHOT.war" target="javassist-3.13.0-GA.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="demo-1.0-SNAPSHOT.war" target="commons-logging-1.1.1.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="demo-1.0-SNAPSHOT.war" target="servlet-api-2.4.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="xwork-core-2.3.1.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="freemarker-2.3.18.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="ognl-3.0.3.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="commons-fileupload-1.2.2.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="commons-io-2.0.1.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="java.lang.RuntimePermission.modifyThread">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="java.io.FilePermission.{name}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="java.util.PropertyPermission.{key}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="struts2-core-2.3.1.jar" target="java.lang.RuntimePermission.modifyThreadGroup">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.13.0-GA.jar" target="java.lang.RuntimePermission.getProtectionDomain">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.13.0-GA.jar" target="java.net.SocketPermission.{host}:{port}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.13.0-GA.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.13.0-GA.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.13.0-GA.jar" target="java.net.SocketPermission.{host}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.13.0-GA.jar" target="java.io.FilePermission.{name}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.13.0-GA.jar" target="java.lang.reflect.ReflectPermission.suppressAccessChecks">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.13.0-GA.jar" target="java.lang.RuntimePermission.modifyThreadGroup">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-logging-1.1.1.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-logging-1.1.1.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-logging-1.1.1.jar" target="java.io.FilePermission.{name}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-logging-1.1.1.jar" target="java.util.PropertyPermission.{key}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="servlet-api-2.4.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="commons-lang-2.5.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="asm-3.3.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="asm-commons-3.3.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="java.lang.RuntimePermission.modifyThread">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="java.lang.RuntimePermission.accessDeclaredMembers">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="java.io.FilePermission.{name}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="java.util.PropertyPermission.{key}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="xwork-core-2.3.1.jar" target="java.lang.RuntimePermission.modifyThreadGroup">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="freemarker-2.3.18.jar" target="java.lang.RuntimePermission.exitVM.{status}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="freemarker-2.3.18.jar" target="java.net.SocketPermission.{host}:{port}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="freemarker-2.3.18.jar" target="java.io.FilePermission.{command}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="freemarker-2.3.18.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="freemarker-2.3.18.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="freemarker-2.3.18.jar" target="java.io.FilePermission.{name}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="freemarker-2.3.18.jar" target="java.util.PropertyPermission.{key}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="freemarker-2.3.18.jar" target="java.lang.RuntimePermission.modifyThreadGroup">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ognl-3.0.3.jar" target="javassist-3.11.0.GA.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ognl-3.0.3.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ognl-3.0.3.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ognl-3.0.3.jar" target="java.util.PropertyPermission.{key}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ognl-3.0.3.jar" target="java.lang.reflect.ReflectPermission.suppressAccessChecks">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-fileupload-1.2.2.jar" target="java.io.FilePermission.{name}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-fileupload-1.2.2.jar" target="java.util.PropertyPermission.{key}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-io-2.0.1.jar" target="java.lang.RuntimePermission.modifyThread">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-io-2.0.1.jar" target="java.io.FilePermission.{command}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-io-2.0.1.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-io-2.0.1.jar" target="java.io.FilePermission.{name}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-io-2.0.1.jar" target="java.util.PropertyPermission.{key}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-io-2.0.1.jar" target="java.lang.RuntimePermission.modifyThreadGroup">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-lang-2.5.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-lang-2.5.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-lang-2.5.jar" target="java.util.PropertyPermission.{key}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-lang-2.5.jar" target="java.util.PropertyPermission.*">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="commons-lang-2.5.jar" target="java.lang.reflect.ReflectPermission.suppressAccessChecks">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="asm-commons-3.3.jar" target="asm-tree-3.3.jar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.11.0.GA.jar" target="java.lang.RuntimePermission.getProtectionDomain">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.11.0.GA.jar" target="java.net.SocketPermission.{host}:{port}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.11.0.GA.jar" target="java.lang.RuntimePermission.getClassLoader">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.11.0.GA.jar" target="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.11.0.GA.jar" target="java.net.SocketPermission.{host}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.11.0.GA.jar" target="java.io.FilePermission.{name}">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.11.0.GA.jar" target="java.lang.reflect.ReflectPermission.suppressAccessChecks">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="javassist-3.11.0.GA.jar" target="java.lang.RuntimePermission.modifyThreadGroup">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

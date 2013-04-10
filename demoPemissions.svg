@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1970px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-33 -17 1064 454" height="841px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.8515037"
+              d="M -8.425941,-8.340322 L 271.228180,100.059204"
+              class="demo-1.0-SNAPSHOT.war struts2-core-2.3.1.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -8.425941,-8.340322 L 896.411865,106.532463"
+              class="demo-1.0-SNAPSHOT.war struts2-config-browser-plugin-2.3.1.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -8.425941,-8.340322 L 674.306824,88.825645"
+              class="demo-1.0-SNAPSHOT.war javassist-3.13.0-GA.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -8.425941,-8.340322 L -1.177485,84.742004"
+              class="demo-1.0-SNAPSHOT.war commons-logging-1.1.1.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -8.425941,-8.340322 L 396.145050,88.381302"
+              class="demo-1.0-SNAPSHOT.war servlet-api-2.4.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 787.644165,188.198608"
+              class="struts2-core-2.3.1.jar xwork-core-2.3.1.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 488.252167,197.194214"
+              class="struts2-core-2.3.1.jar freemarker-2.3.18.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 293.964264,189.112625"
+              class="struts2-core-2.3.1.jar ognl-3.0.3.jar" stroke-opacity="1.0"
+              stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 388.300873,180.033264"
+              class="struts2-core-2.3.1.jar commons-fileupload-1.2.2.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 674.919312,203.454285"
+              class="struts2-core-2.3.1.jar commons-io-2.0.1.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 493.086456,312.690369"
+              class="struts2-core-2.3.1.jar java.lang.RuntimePermission.modifyThread"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 399.210510,364.997742"
+              class="struts2-core-2.3.1.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 570.880371,351.053436"
+              class="struts2-core-2.3.1.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 1.762185,397.493805"
+              class="struts2-core-2.3.1.jar java.io.FilePermission.{name}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 493.044281,385.595947"
+              class="struts2-core-2.3.1.jar java.util.PropertyPermission.{key}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 290.808655,107.648987 L 290.773254,400.586517"
+              class="struts2-core-2.3.1.jar java.lang.RuntimePermission.modifyThreadGroup"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 692.622253,91.432281 L 702.960999,407.040771"
+              class="javassist-3.13.0-GA.jar java.lang.RuntimePermission.getProtectionDomain"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 692.622253,91.432281 L 104.096619,391.291565"
+              class="javassist-3.13.0-GA.jar java.net.SocketPermission.{host}:{port}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 692.622253,91.432281 L 427.233215,370.129913"
+              class="javassist-3.13.0-GA.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 692.622253,91.432281 L 599.507446,343.716980"
+              class="javassist-3.13.0-GA.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 692.622253,91.432281 L 1011.800415,406.491974"
+              class="javassist-3.13.0-GA.jar java.net.SocketPermission.{host}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 692.622253,91.432281 L 6.714765,404.616913"
+              class="javassist-3.13.0-GA.jar java.io.FilePermission.{name}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 692.622253,91.432281 L 797.091553,367.894867"
+              class="javassist-3.13.0-GA.jar java.lang.reflect.ReflectPermission.suppressAccessChecks"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 692.622253,91.432281 L 306.996735,408.255493"
+              class="javassist-3.13.0-GA.jar java.lang.RuntimePermission.modifyThreadGroup"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 0.000000,99.862892 L 388.066620,373.958923"
+              class="commons-logging-1.1.1.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 0.000000,99.862892 L 566.832764,357.355255"
+              class="commons-logging-1.1.1.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 0.000000,99.862892 L -14.230031,390.419586"
+              class="commons-logging-1.1.1.jar java.io.FilePermission.{name}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 0.000000,99.862892 L 486.513092,392.722687"
+              class="commons-logging-1.1.1.jar java.util.PropertyPermission.{key}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 408.464539,91.326553 L 576.217712,346.385895"
+              class="servlet-api-2.4.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 723.987671,274.533600"
+              class="xwork-core-2.3.1.jar commons-lang-2.5.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 605.972534,296.369232"
+              class="xwork-core-2.3.1.jar asm-3.3.jar" stroke-opacity="1.0"
+              stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 883.674561,282.260315"
+              class="xwork-core-2.3.1.jar asm-commons-3.3.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 518.981812,317.667786"
+              class="xwork-core-2.3.1.jar java.lang.RuntimePermission.modifyThread"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 995.339539,301.210022"
+              class="xwork-core-2.3.1.jar java.lang.RuntimePermission.accessDeclaredMembers"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 432.595703,377.405701"
+              class="xwork-core-2.3.1.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 610.668640,351.694611"
+              class="xwork-core-2.3.1.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 8.063891,408.351776"
+              class="xwork-core-2.3.1.jar java.io.FilePermission.{name}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 527.179565,391.153778"
+              class="xwork-core-2.3.1.jar java.util.PropertyPermission.{key}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 807.550903,191.425995 L 309.954132,413.042725"
+              class="xwork-core-2.3.1.jar java.lang.RuntimePermission.modifyThreadGroup"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 505.100433,204.835297 L 107.402817,292.418182"
+              class="freemarker-2.3.18.jar java.lang.RuntimePermission.exitVM.{status}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 505.100433,204.835297 L 104.340263,391.791016"
+              class="freemarker-2.3.18.jar java.net.SocketPermission.{host}:{port}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 505.100433,204.835297 L 224.240433,306.421997"
+              class="freemarker-2.3.18.jar java.io.FilePermission.{command}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 505.100433,204.835297 L 421.303864,365.893829"
+              class="freemarker-2.3.18.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 505.100433,204.835297 L 578.453918,345.070068"
+              class="freemarker-2.3.18.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 505.100433,204.835297 L 7.147393,405.623840"
+              class="freemarker-2.3.18.jar java.io.FilePermission.{name}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 505.100433,204.835297 L 507.086365,380.940277"
+              class="freemarker-2.3.18.jar java.util.PropertyPermission.{key}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 505.100433,204.835297 L 305.536316,406.654083"
+              class="freemarker-2.3.18.jar java.lang.RuntimePermission.modifyThreadGroup"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 294.583588,205.100632 L -2.027534,274.870544"
+              class="ognl-3.0.3.jar javassist-3.11.0.GA.jar"
+              stroke-opacity="1.0" stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 294.583588,205.100632 L 395.540039,366.900513"
+              class="ognl-3.0.3.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 294.583588,205.100632 L 567.731384,355.563904"
+              class="ognl-3.0.3.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 294.583588,205.100632 L 489.637512,388.598816"
+              class="ognl-3.0.3.jar java.util.PropertyPermission.{key}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 294.583588,205.100632 L 786.674500,378.548157"
+              class="ognl-3.0.3.jar java.lang.reflect.ReflectPermission.suppressAccessChecks"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 399.139954,188.080872 L 5.930543,403.051117"
+              class="commons-fileupload-1.2.2.jar java.io.FilePermission.{name}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 399.139954,188.080872 L 496.508636,383.492645"
+              class="commons-fileupload-1.2.2.jar java.util.PropertyPermission.{key}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 691.252258,207.528061 L 517.900208,315.615112"
+              class="commons-io-2.0.1.jar java.lang.RuntimePermission.modifyThread"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 691.252258,207.528061 L 224.772018,308.271484"
+              class="commons-io-2.0.1.jar java.io.FilePermission.{command}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 691.252258,207.528061 L 431.167847,374.889313"
+              class="commons-io-2.0.1.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 691.252258,207.528061 L 7.930026,407.877472"
+              class="commons-io-2.0.1.jar java.io.FilePermission.{name}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 691.252258,207.528061 L 523.931580,387.453003"
+              class="commons-io-2.0.1.jar java.util.PropertyPermission.{key}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 691.252258,207.528061 L 309.291138,411.687317"
+              class="commons-io-2.0.1.jar java.lang.RuntimePermission.modifyThreadGroup"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 712.643066,285.816345 L 433.919403,380.588806"
+              class="commons-lang-2.5.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 712.643066,285.816345 L 612.067261,353.580658"
+              class="commons-lang-2.5.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 712.643066,285.816345 L 528.392395,393.033569"
+              class="commons-lang-2.5.jar java.util.PropertyPermission.{key}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 712.643066,285.816345 L 898.127258,394.063568"
+              class="commons-lang-2.5.jar java.util.PropertyPermission.*"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 712.643066,285.816345 L 791.376709,371.418030"
+              class="commons-lang-2.5.jar java.lang.reflect.ReflectPermission.suppressAccessChecks"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M 891.810547,291.968567 L 197.261948,371.370850"
+              class="asm-commons-3.3.jar asm-tree-3.3.jar" stroke-opacity="1.0"
+              stroke="#cd4c4c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -20.036036,279.106567 L 689.366272,418.600922"
+              class="javassist-3.11.0.GA.jar java.lang.RuntimePermission.getProtectionDomain"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -20.036036,279.106567 L 79.008392,386.779541"
+              class="javassist-3.11.0.GA.jar java.net.SocketPermission.{host}:{port}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -20.036036,279.106567 L 384.114929,382.513947"
+              class="javassist-3.11.0.GA.jar java.lang.RuntimePermission.getClassLoader"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -20.036036,279.106567 L 564.776733,364.358124"
+              class="javassist-3.11.0.GA.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -20.036036,279.106567 L 1007.791016,414.686707"
+              class="javassist-3.11.0.GA.jar java.net.SocketPermission.{host}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -20.036036,279.106567 L -16.248032,390.404541"
+              class="javassist-3.11.0.GA.jar java.io.FilePermission.{name}"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -20.036036,279.106567 L 785.812500,382.179565"
+              class="javassist-3.11.0.GA.jar java.lang.reflect.ReflectPermission.suppressAccessChecks"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+        <path fill="none" stroke-width="1.8515037"
+              d="M -20.036036,279.106567 L 271.681000,412.835419"
+              class="javassist-3.11.0.GA.jar java.lang.RuntimePermission.modifyThreadGroup"
+              stroke-opacity="1.0" stroke="#8c8c8c"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="demo-1.0-SNAPSHOT.war struts2-core-2.3.1.jar"
+                  points="275.890198,101.866295 270.324646,102.390213 272.131714,97.728195"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="demo-1.0-SNAPSHOT.war struts2-config-browser-plugin-2.3.1.jar"
+                  points="901.372070,107.162178 896.096985,109.012558 896.726746,104.052368"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="demo-1.0-SNAPSHOT.war javassist-3.13.0-GA.jar"
+                  points="679.256958,89.530136 673.954590,91.300705 674.659058,86.350586"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="demo-1.0-SNAPSHOT.war commons-logging-1.1.1.jar"
+                  points="-0.789303,89.726913 -3.669940,84.936096 1.314969,84.547913"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="demo-1.0-SNAPSHOT.war servlet-api-2.4.jar"
+                  points="401.007996,89.543907 395.563751,90.812782 396.726349,85.949821"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar xwork-core-2.3.1.jar"
+                  points="792.579712,188.998779 787.244080,190.666382 788.044250,185.730835"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar freemarker-2.3.18.jar"
+                  points="492.805756,199.259369 487.219574,199.471008 489.284760,194.917419"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar ognl-3.0.3.jar"
+                  points="294.157806,194.108871 291.466125,189.209396 296.462402,189.015854"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar commons-fileupload-1.2.2.jar"
+                  points="392.315338,183.013855 386.810577,182.040497 389.791168,178.026031"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar commons-io-2.0.1.jar"
+                  points="679.770691,204.664307 674.314270,205.879974 675.524353,201.028595"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar java.lang.RuntimePermission.modifyThread"
+                  points="496.597931,316.249786 491.306732,314.446106 494.866180,310.934631"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar java.lang.RuntimePermission.getClassLoader"
+                  points="401.151459,369.605621 396.906555,365.968231 401.514465,364.027252"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="574.654297,354.333282 569.240417,352.940399 572.520325,349.166473"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar java.io.FilePermission.{name}"
+                  points="-1.768469,401.034210 -0.008018,395.728485 3.532388,399.259125"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar java.util.PropertyPermission.{key}"
+                  points="495.986023,389.638977 491.022766,387.066803 495.065796,384.125092"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="struts2-core-2.3.1.jar java.lang.RuntimePermission.modifyThreadGroup"
+                  points="290.772644,405.586517 288.273254,400.586212 293.273254,400.586823"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.13.0-GA.jar java.lang.RuntimePermission.getProtectionDomain"
+                  points="703.124695,412.038086 700.462341,407.122620 705.459656,406.958923"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.13.0-GA.jar java.net.SocketPermission.{host}:{port}"
+                  points="99.641556,393.561462 102.961670,389.064026 105.231567,393.519104"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.13.0-GA.jar java.lang.RuntimePermission.getClassLoader"
+                  points="423.785187,373.750854 425.422760,368.405914 429.043671,371.853912"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.13.0-GA.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="597.776184,348.407684 597.162109,342.851349 601.852783,344.582611"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.13.0-GA.jar java.net.SocketPermission.{host}"
+                  points="1015.358826,410.004486 1010.044189,408.271179 1013.556641,404.712769"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.13.0-GA.jar java.io.FilePermission.{name}"
+                  points="2.166457,406.693665 5.676388,402.342773 7.753141,406.891052"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.13.0-GA.jar java.lang.reflect.ReflectPermission.suppressAccessChecks"
+                  points="798.858948,372.572083 794.752930,368.778564 799.430176,367.011169"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.13.0-GA.jar java.lang.RuntimePermission.modifyThreadGroup"
+                  points="303.133423,411.429535 305.409698,406.323822 308.583771,410.187164"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-logging-1.1.1.jar java.lang.RuntimePermission.getClassLoader"
+                  points="392.150635,376.843506 386.624329,376.000916 389.508911,371.916931"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-logging-1.1.1.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="571.385132,359.423218 565.798767,359.631409 567.866760,355.079102"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-logging-1.1.1.jar java.io.FilePermission.{name}"
+                  points="-14.474613,395.413605 -16.727039,390.297302 -11.733024,390.541870"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-logging-1.1.1.jar java.util.PropertyPermission.{key}"
+                  points="490.796875,395.301331 485.223785,394.864563 487.802399,390.580811"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="servlet-api-2.4.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="578.965210,350.563324 574.128967,347.759644 578.306458,345.012146"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar commons-lang-2.5.jar"
+                  points="720.442505,278.059448 722.224731,272.761017 725.750610,276.306183"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar asm-3.3.jar"
+                  points="601.537598,298.678101 604.818115,294.151733 607.126953,298.586731"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar asm-commons-3.3.jar"
+                  points="886.886108,286.092529 881.758484,283.866089 885.590637,280.654541"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar java.lang.RuntimePermission.modifyThread"
+                  points="514.401001,319.671783 517.979797,315.377380 519.983826,319.958191"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar java.lang.RuntimePermission.accessDeclaredMembers"
+                  points="999.656067,303.733521 994.077820,303.368256 996.601257,299.051788"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar java.lang.RuntimePermission.getClassLoader"
+                  points="428.116425,379.627472 431.484833,375.166077 433.706573,379.645325"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="606.791016,354.851166 609.090393,349.755768 612.246887,353.633453"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar java.io.FilePermission.{name}"
+                  points="3.238366,409.661102 7.409234,405.939026 8.718550,410.764526"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar java.util.PropertyPermission.{key}"
+                  points="523.107178,394.054779 525.729065,389.117615 528.630066,393.189941"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="xwork-core-2.3.1.jar java.lang.RuntimePermission.modifyThreadGroup"
+                  points="305.386658,415.076965 308.937012,410.758972 310.971252,415.326477"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="freemarker-2.3.18.jar java.lang.RuntimePermission.exitVM.{status}"
+                  points="102.519821,293.493561 106.865135,289.976685 107.940498,294.859680"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="freemarker-2.3.18.jar java.net.SocketPermission.{host}:{port}"
+                  points="99.809067,393.904846 103.283356,389.525421 105.397171,394.056610"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="freemarker-2.3.18.jar java.io.FilePermission.{command}"
+                  points="219.538544,308.122650 223.390106,304.071045 225.090759,308.772949"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="freemarker-2.3.18.jar java.lang.RuntimePermission.getClassLoader"
+                  points="418.996094,370.329407 419.086090,364.739960 423.521637,367.047699"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="freemarker-2.3.18.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="580.771362,349.500580 576.238647,346.228821 580.669189,343.911316"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="freemarker-2.3.18.jar java.io.FilePermission.{name}"
+                  points="2.510190,407.493713 6.212468,403.305237 8.082318,407.942444"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="freemarker-2.3.18.jar java.util.PropertyPermission.{key}"
+                  points="507.142731,385.939972 504.586517,380.968475 509.586212,380.912079"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="freemarker-2.3.18.jar java.lang.RuntimePermission.modifyThreadGroup"
+                  points="302.020691,410.209442 303.758636,404.896271 307.313995,408.411896"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="ognl-3.0.3.jar javassist-3.11.0.GA.jar"
+                  points="-6.894697,276.015411 -2.599970,272.436951 -1.455099,277.304138"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="ognl-3.0.3.jar java.lang.RuntimePermission.getClassLoader"
+                  points="398.186859,371.142487 393.419037,368.223907 397.661041,365.577118"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="ognl-3.0.3.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="572.110901,357.976349 566.525146,357.753662 568.937622,353.374146"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="ognl-3.0.3.jar java.util.PropertyPermission.{key}"
+                  points="493.279266,392.024811 487.924500,390.419708 491.350525,386.777924"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="ognl-3.0.3.jar java.lang.reflect.ReflectPermission.suppressAccessChecks"
+                  points="791.390137,380.210266 785.843445,380.905975 787.505554,376.190338"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-fileupload-1.2.2.jar java.io.FilePermission.{name}"
+                  points="1.543378,405.449615 4.731296,400.857544 7.129790,405.244690"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-fileupload-1.2.2.jar java.util.PropertyPermission.{key}"
+                  points="498.738525,387.967865 494.271027,384.607574 498.746246,382.377716"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-io-2.0.1.jar java.lang.RuntimePermission.modifyThread"
+                  points="513.657349,318.260559 516.577454,313.493713 519.222961,317.736511"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-io-2.0.1.jar java.io.FilePermission.{command}"
+                  points="219.884689,309.326996 224.244278,305.827820 225.299759,310.715149"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-io-2.0.1.jar java.lang.RuntimePermission.getClassLoader"
+                  points="426.963165,377.594971 429.815002,372.786957 432.520691,376.991669"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-io-2.0.1.jar java.io.FilePermission.{name}"
+                  points="3.132007,409.284271 7.226639,405.478455 8.633413,410.276489"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-io-2.0.1.jar java.util.PropertyPermission.{key}"
+                  points="520.526611,391.114441 522.100830,385.750519 525.762329,389.155487"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-io-2.0.1.jar java.lang.RuntimePermission.modifyThreadGroup"
+                  points="304.881500,414.044250 308.112671,409.482513 310.469604,413.892120"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-lang-2.5.jar java.lang.RuntimePermission.getClassLoader"
+                  points="429.185577,382.198395 433.114594,378.221893 434.724213,382.955719"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-lang-2.5.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="607.920593,356.374512 610.670349,351.507355 613.464172,355.653961"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-lang-2.5.jar java.util.PropertyPermission.{key}"
+                  points="524.070801,395.548309 527.135010,390.872772 529.649780,395.194366"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-lang-2.5.jar java.util.PropertyPermission.*"
+                  points="902.445618,396.583771 896.867188,396.222778 899.387329,391.904358"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="commons-lang-2.5.jar java.lang.reflect.ReflectPermission.suppressAccessChecks"
+                  points="794.761536,375.098114 789.536682,373.110443 793.216736,369.725616"
+                  stroke="none"/>
+        <polyline fill="#cd4c4c" fill-opacity="1.0"
+                  class="asm-commons-3.3.jar asm-tree-3.3.jar"
+                  points="192.294296,371.938751 196.977997,368.887024 197.545898,373.854675"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.11.0.GA.jar java.lang.RuntimePermission.getProtectionDomain"
+                  points="694.272339,419.565643 688.883911,421.053955 689.848633,416.147888"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.11.0.GA.jar java.net.SocketPermission.{host}:{port}"
+                  points="82.393402,390.459442 77.168442,388.472046 80.848343,385.087036"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.11.0.GA.jar java.lang.RuntimePermission.getClassLoader"
+                  points="388.958893,383.753326 383.495239,384.935913 384.734619,380.091980"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.11.0.GA.jar java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                  points="569.724487,365.079376 564.416077,366.831970 565.137390,361.884277"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.11.0.GA.jar java.net.SocketPermission.{host}"
+                  points="1012.748047,415.340576 1007.464050,417.165222 1008.117981,412.208191"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.11.0.GA.jar java.io.FilePermission.{name}"
+                  points="-16.077957,395.401642 -18.746586,390.489594 -13.749478,390.319489"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.11.0.GA.jar java.lang.reflect.ReflectPermission.suppressAccessChecks"
+                  points="790.772095,382.813934 785.495300,384.659363 786.129700,379.699768"
+                  stroke="none"/>
+        <polyline fill="#8c8c8c" fill-opacity="1.0"
+                  class="javassist-3.11.0.GA.jar java.lang.RuntimePermission.modifyThreadGroup"
+                  points="276.226166,414.919006 270.639191,415.108002 272.722809,410.562836"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="9.166666" cx="-8.4259405"
+                class="demo-1.0-SNAPSHOT.war" cy="-8.340322" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="15.0" cx="290.80865"
+                class="struts2-core-2.3.1.jar" cy="107.64899" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="5.8333335" cx="908.151"
+                class="struts2-config-browser-plugin-2.3.1.jar" cy="108.02279"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="12.5" cx="692.62225"
+                class="javassist-3.13.0-GA.jar" cy="91.43228" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="9.166666"
+                cx="7.0227916E-12" class="commons-logging-1.1.1.jar"
+                cy="99.86289" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="6.666667" cx="408.46454"
+                class="servlet-api-2.4.jar" cy="91.32655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#999999" r="5.0" cx="107.16202"
+                class="jsp-api-2.4.jar" cy="6.3695936" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="14.166667" cx="807.5509"
+                class="xwork-core-2.3.1.jar" cy="191.426" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="12.5" cx="505.10043"
+                class="freemarker-2.3.18.jar" cy="204.8353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="10.0" cx="294.5836"
+                class="ognl-3.0.3.jar" cy="205.10063" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="7.5" cx="399.13995"
+                class="commons-fileupload-1.2.2.jar" cy="188.08087"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="10.833333" cx="691.25226"
+                class="commons-io-2.0.1.jar" cy="207.52806" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="10.0" cx="712.64307"
+                class="commons-lang-2.5.jar" cy="285.81635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="5.8333335" cx="595.47644"
+                class="asm-3.3.jar" cy="301.8336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="6.666667" cx="891.81055"
+                class="asm-commons-3.3.jar" cy="291.96857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="5.8333335" cx="185.50519"
+                class="asm-tree-3.3.jar" cy="372.7149" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#cd4c4c" r="12.5" cx="-20.036036"
+                class="javassist-3.11.0.GA.jar" cy="279.10657" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="6.6666665" cx="95.03257"
+                class="java.lang.RuntimePermission.exitVM.{status}"
+                cy="295.14243" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="10.0" cx="504.32315"
+                class="java.lang.RuntimePermission.modifyThread" cy="324.08057"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="8.333333" cx="703.4303"
+                class="java.lang.RuntimePermission.getProtectionDomain"
+                cy="421.36642" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="10.0" cx="89.84042"
+                class="java.net.SocketPermission.{host}:{port}" cy="398.55524"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="8.333333" cx="210.76169"
+                class="java.io.FilePermission.{command}" cy="311.29724"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="6.6666665" cx="1006.27466"
+                class="java.lang.RuntimePermission.accessDeclaredMembers"
+                cy="307.60284" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="20.0" cx="409.3035"
+                class="java.lang.RuntimePermission.getClassLoader"
+                cy="388.95877" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="20.0" cx="590.5048"
+                class="java.lang.RuntimePermission.accessClassInPackage.{pkgName}"
+                cy="368.10864" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="8.333333" cx="1022.0012"
+                class="java.net.SocketPermission.{host}" cy="416.56116"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="18.333332" cx="-15.420331"
+                class="java.io.FilePermission.{name}" cy="414.7238"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="18.333332" cx="507.36075"
+                class="java.util.PropertyPermission.{key}" cy="405.27206"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="6.6666665" cx="909.0672"
+                class="java.util.PropertyPermission.*" cy="400.44806"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="11.666666" cx="803.3364"
+                class="java.lang.reflect.ReflectPermission.suppressAccessChecks"
+                cy="384.421" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.8515037"/>
+        <circle fill-opacity="1.0" fill="#4ccdcd" r="15.0" cx="290.77072"
+                class="java.lang.RuntimePermission.modifyThreadGroup"
+                cy="421.58652" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.8515037"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="-8.4259405" y="-6.1181536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="demo-1.0-SNAPSHOT.war">
+            demo-1.0-SNAPSHOT.war
+        </text>
+        <text font-size="12" x="290.80865" y="110.436584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="struts2-core-2.3.1.jar">
+            struts2-core-2.3.1.jar
+        </text>
+        <text font-size="12" x="908.151" y="110.83822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="struts2-config-browser-plugin-2.3.1.jar">
+            struts2-config-browser-plugin-2.3.1.jar
+        </text>
+        <text font-size="12" x="692.62225" y="94.24771" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="javassist-3.13.0-GA.jar">
+            javassist-3.13.0-GA.jar
+        </text>
+        <text font-size="12" x="7.0227916E-12" y="102.65049" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="commons-logging-1.1.1.jar">
+            commons-logging-1.1.1.jar
+        </text>
+        <text font-size="12" x="408.46454" y="94.11415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="servlet-api-2.4.jar">
+            servlet-api-2.4.jar
+        </text>
+        <text font-size="12" x="107.16202" y="9.157191" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jsp-api-2.4.jar">
+            jsp-api-2.0.jar
+        </text>
+        <text font-size="12" x="807.5509" y="194.2136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="xwork-core-2.3.1.jar">
+            xwork-core-2.3.1.jar
+        </text>
+        <text font-size="12" x="505.10043" y="207.65073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="freemarker-2.3.18.jar">
+            freemarker-2.3.18.jar
+        </text>
+        <text font-size="12" x="294.5836" y="207.88823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ognl-3.0.3.jar">
+            ognl-3.0.3.jar
+        </text>
+        <text font-size="12" x="399.13995" y="190.8963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="commons-fileupload-1.2.2.jar">
+            commons-fileupload-1.2.2.jar
+        </text>
+        <text font-size="12" x="691.25226" y="210.31566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="commons-io-2.0.1.jar">
+            commons-io-2.0.1.jar
+        </text>
+        <text font-size="12" x="712.64307" y="288.60394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="commons-lang-2.5.jar">
+            commons-lang-2.5.jar
+        </text>
+        <text font-size="12" x="595.47644" y="304.6212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="asm-3.3.jar">
+            asm-3.3.jar
+        </text>
+        <text font-size="12" x="891.81055" y="294.75616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="asm-commons-3.3.jar">
+            asm-commons-3.3.jar
+        </text>
+        <text font-size="12" x="185.50519" y="375.5025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="asm-tree-3.3.jar">
+            asm-tree-3.3.jar
+        </text>
+        <text font-size="12" x="-20.036036" y="281.922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="javassist-3.11.0.GA.jar">
+            javassist-3.11.0.GA.jar
+        </text>
+        <text font-size="12" x="95.03257" y="297.95786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.lang.RuntimePermission.exitVM.{status}">
+            java.lang.RuntimePermission.exitVM.{status}
+        </text>
+        <text font-size="12" x="504.32315" y="326.896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.lang.RuntimePermission.modifyThread">
+            java.lang.RuntimePermission.modifyThread
+        </text>
+        <text font-size="12" x="703.4303" y="424.14523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.lang.RuntimePermission.getProtectionDomain">
+            java.lang.RuntimePermission.getProtectionDomain
+        </text>
+        <text font-size="12" x="89.84042" y="401.37067" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.net.SocketPermission.{host}:{port}">
+            java.net.SocketPermission.{host}:{port}
+        </text>
+        <text font-size="12" x="210.76169" y="314.11267" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="java.io.FilePermission.{command}">
+            java.io.FilePermission.{command}
+        </text>
+        <text font-size="12" x="1006.27466" y="310.38165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.lang.RuntimePermission.accessDeclaredMembers">
+            java.lang.RuntimePermission.accessDeclaredMembers
+        </text>
+        <text font-size="12" x="409.3035" y="391.7742" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.lang.RuntimePermission.getClassLoader">
+            java.lang.RuntimePermission.getClassLoader
+        </text>
+        <text font-size="12" x="590.5048" y="370.92407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.lang.RuntimePermission.accessClassInPackage.{pkgName}">
+            java.lang.RuntimePermission.accessClassInPackage.{pkgName}
+        </text>
+        <text font-size="12" x="1022.0012" y="419.3766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="java.net.SocketPermission.{host}">
+            java.net.SocketPermission.{host}
+        </text>
+        <text font-size="12" x="-15.420331" y="417.5392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="java.io.FilePermission.{name}">
+            java.io.FilePermission.{name}
+        </text>
+        <text font-size="12" x="507.36075" y="408.0875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="java.util.PropertyPermission.{key}">
+            java.util.PropertyPermission.{key}
+        </text>
+        <text font-size="12" x="909.0672" y="403.2635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="java.util.PropertyPermission.*">
+            java.util.PropertyPermission.*
+        </text>
+        <text font-size="12" x="803.3364" y="387.23642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.lang.reflect.ReflectPermission.suppressAccessChecks">
+            java.lang.reflect.ReflectPermission.suppressAccessChecks
+        </text>
+        <text font-size="12" x="290.77072" y="424.40195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="java.lang.RuntimePermission.modifyThreadGroup">
+            java.lang.RuntimePermission.modifyThreadGroup
+        </text>
+    </g>
+</svg>
