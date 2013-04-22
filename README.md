@@ -18,16 +18,16 @@ This will generate a war file in the project `target` folder.
 
 ## Running the Demo
 The demo is as follows:
-1. Build the war file as described above.
-2. Copy the war file into the Tomcat `webapp` folder e.g. `cp target/demo-1.0-SNAPSHOT.war ~/Downloads/apache-tomcat-7.0.39/webapps/`
-3. Start Tomcat by running the following: `<TOMCAT_HOME>/bin/catalina.sh start`
-4. Navigate to the index page of the application e.g. http://localhost:8080/demo-1.0-SNAPSHOT/index.jsp
-5. Enter something simple into the form like "Robert"
-6. Enter the malicious URL http://localhost:8080/demo-1.0-SNAPSHOT/UserName.action?userName=/tmp/bad.txt&x[new+java.io.FileWriter%28userName%29]=1
-7. Look at the timestamp of the file `ls -l /tmp/bad.txt` We can see that the file has just been created/overwritten.
-8. Shutdown tomcat
-9. Start Tomcat in secure mode by running the following: `<TOMCAT_HOME>/bin/catalina.sh start -secure` - the policy file must be setup for the application in advance.
-10. Repeat steps 4-7. In this case we can see that no file has been created; instead we see a warning in `catalina.out`:
+ 1. Build the war file as described above.
+ 2. Copy the war file into the Tomcat `webapp` folder e.g. `cp target/demo-1.0-SNAPSHOT.war ~/Downloads/apache-tomcat-7.0.39/webapps/`
+ 3. Start Tomcat by running the following: `<TOMCAT_HOME>/bin/catalina.sh start`
+ 4. Navigate to the index page of the application e.g. http://localhost:8080/demo-1.0-SNAPSHOT/index.jsp
+ 5. Enter something simple into the form like "Robert"
+ 6. Enter the malicious URL http://localhost:8080/demo-1.0-SNAPSHOT/UserName.action?userName=/tmp/bad.txt&x[new+java.io.FileWriter%28userName%29]=1
+ 7. Look at the timestamp of the file `ls -l /tmp/bad.txt` We can see that the file has just been created/overwritten.
+ 8. Shutdown tomcat
+ 9. Start Tomcat in secure mode by running the following: `<TOMCAT_HOME>/bin/catalina.sh start -secure` - the policy file must be setup for the application in advance.
+ 10. Repeat steps 4-7. In this case we can see that no file has been created; instead we see a warning in `catalina.out`:
 
 ```
 WARNING: Error setting expression 'x[new java.io.FileWriter(userName)]' with value '[Ljava.lang.String;@3b7447c5'
